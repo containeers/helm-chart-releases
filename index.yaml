@@ -1,0 +1,22 @@
+apiVersion: v1
+entries:
+  routinator:
+  - apiVersion: v2
+    appVersion: v0.16.1
+    created: "2026-11-19T00:08:53.239679871Z"
+    description: routinator helm chart for Kubernetes
+    digest: 9563f3128e587c6c670ecfeeb2ae18e4fea13d0fae3686f727b910a0b1f302a7
+    home: https://github.com/NLnetLabs/routinator
+    icon: https://artifacthub.io/image/e417b561-5fe4-4ee3-9b89-f67df4069169
+    kubeVersion: '>=1.23.0-0'
+    maintainers:
+    - email: ludovic.ortega@adminafk.fr
+      name: Ludovic Ortega
+    name: routinator
+    sources:
+    - https://github.com/M0NsTeRRR/helm-charts/tree/main/charts/routinator
+    type: application
+    urls:
+    - https://github.com/containeers/helm-chart-releases/releases/download/routinator-2.6.1/routinator-2.6.1.tgz
+    version: 2.6.1
+generated: "2026-11-19T00:08:53.236879566Z"
